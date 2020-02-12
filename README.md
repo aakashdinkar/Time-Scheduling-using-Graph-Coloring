@@ -1,4 +1,4 @@
-# TIme-Scheduling-using-Graph-Coloring
+# Time-Scheduling-using-Graph-Coloring
   A timetable can be thought of as an assignment of timeslots to different events in any institution. So, we made this simple “Scheduling     of Class timetable using Graph Coloring” where each color denotes a particular time slot. Time slots are reserved for each course and       semester according to various factors.
   
 ## Graph-Coloring
