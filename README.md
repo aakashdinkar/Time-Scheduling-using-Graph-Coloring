@@ -21,8 +21,8 @@ matplotlib.pyplot   - for plotting the points</br>
 networkx            - for graph making</br>
 
 ## Result
-After using graph coloring concept, we are able to find timeslots for each subject.</br> Let's generate the time table: 
-
+After using graph coloring concept, we are able to find timeslots for each subject.</br> Let's generate the time table:</br> 
+![Result](https://raw.githubusercontent.com/aakashdinkar/TIme-Scheduling-using-Graph-Coloring/master/result.png)</br>
 Here, if any student has recourse for previous semesters then he/she can attend those classes. If no recourse, then class of particular semester can take place at same time without any modification. 
 
 
